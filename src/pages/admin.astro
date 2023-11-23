@@ -13,18 +13,28 @@ const lang = import.meta.env.WEBSITE_LANGUAGE;
 const url = Astro.site;
 
 const config = {
-  locale: lang,
-  site_url: url,
-  logo_url: "https://starfunnel.unfolding.io/logo.svg",
-  local_backend: true,
-  backend: {
-    name: "test-repo",
-  },
-  search: "true",
+	locale: lang,
+	site_url: url,
+	logo_url: 'https://starfunnel.unfolding.io/logo.svg',
+	local_backend: true,
+	backend: {
+		name: 'github',
+		repo: '/patbhakta/huible-landing-two.git',
+		// auth_type: 'pkce', // Required for pkce
+		// app_id: 'xxxx', // Application ID from your GitLab settings
+		commit_messages: {
+			create: 'Create {{collection}} "{{slug}}"',
+			update: 'Update {{collection}} "{{slug}}"',
+			delete: 'Delete {{collection}} "{{slug}}"',
+			uploadMedia: 'Upload "{{path}}"',
+			deleteMedia: 'Delete "{{path}}"'
+		}
+	},
+	search: 'true',
   media_folder: "src/assets",
   public_folder: "/src/assets",
   media_library: {
-    max_file_size: 8012000,
+    max_file_size: 98012000,
     folder_support: true,
   },
   collections: [page, post, settings],
@@ -36,7 +46,7 @@ const config = {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>StarFunnel Admin | by unfolding.io</title>
+    <title>HU·IBLE Admin | by Pat Bhakta</title>
     <link
       rel="stylesheet"
       href="https://unpkg.com/@staticcms/app@^v3.4.5/dist/main.css"
