@@ -124,7 +124,7 @@ Astro, MDX, Vue, TailwindCSS
 
 If you encounter any issues or bugs, we encourage you to open an issue in the repository. To help us quickly address the problem, please provide detailed information about the bug and steps to reproduce it.
 
-For those seeking priority assistance, we offer premium support services. Feel free to reach out to us by email at [hello@unfolding.io.](mailto:hello@unfolding.io.) We're here to help!
+For those seeking priority assistance, we offer premium support services. Feel free to reach out to us by email at [hello@huible.com](mailto:hello@huible.com) We're here to help!
 
 ## 🚕 Roadmap
 
@@ -132,28 +132,5 @@ As we journey towards v1.0, we want to integrate the best sales tools on the mar
 
 ## ☕️ Want to Caffeinate your Developer? 
 
-By [caffeinating](https://www.buymeacoffee.com/unfolding.io) your developer, you're not just getting the best out of them; you're also ensuring a cheerful and energetic work environment.😊
-
-[![buymeacoffee](https://starfunnel.unfolding.io/screenshots/bymeacoffee.webp)](https://www.buymeacoffee.com/unfolding.io)
-
-
-
-
-
-## 📸 Screenshots
-
-![StarFunnel](https://starfunnel.unfolding.io/screenshots/screenshot_1.jpg)
-![StarFunnel](https://starfunnel.unfolding.io/screenshots/screenshot_2.jpg)
-![StarFunnel](https://starfunnel.unfolding.io/screenshots/screenshot_3.jpg)
-![StarFunnel](https://starfunnel.unfolding.io/screenshots/screenshot_4.jpg)
-![StarFunnel](https://starfunnel.unfolding.io/screenshots/screenshot_5.jpg)
-![StarFunnel](https://starfunnel.unfolding.io/screenshots/screenshot_6.jpg)
-![StarFunnel](https://starfunnel.unfolding.io/screenshots/screenshot_7.jpg)
-![StarFunnel](https://starfunnel.unfolding.io/screenshots/screenshot_8.jpg)
-![StarFunnel](https://starfunnel.unfolding.io/screenshots/screenshot_9.jpg) 
-
-
-
-
-
+By [feeding pizza to ](https://www.buymeacoffee.com/patz) your developer, you're not just getting the best out of them; you're also ensuring a cheerful and energetic work environment.😊
 
